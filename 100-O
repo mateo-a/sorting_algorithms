@@ -1,0 +1,3 @@
+O(nlog(n))
+depends on gap sequence
+O(n^2)
